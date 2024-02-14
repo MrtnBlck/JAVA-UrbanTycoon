@@ -1,4 +1,4 @@
-imported from Elte Gitlab
+_Imported from Elte Gitlab_
 
 # UrbanTycoon
 ## Játék rövid leírása
