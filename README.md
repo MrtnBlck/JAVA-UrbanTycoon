@@ -1,3 +1,5 @@
+imported from Elte Gitlab
+
 # UrbanTycoon
 ## Játék rövid leírása
 A játékban, a játékosnak fel kell építenie saját városát és menedzselnie azt egy széles jogkörökkel bíró polgármesterként. A város különböző típusú zónákból (amelyeken a lakók
